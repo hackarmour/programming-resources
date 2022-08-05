@@ -11,3 +11,14 @@ We are working on a search engine also make some security challenges. You may fi
 - System Programming
 - Malware
 - Others
+
+## Basics Of Computer Science
+- [CS50 by Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+  
+  Will teach you basics of computational thinking, basic data structures & algorithms, programming with C, python, javascript and also a good introduction to web development. Complete the exercises and assignments of the course for some practical work
+  
+- [CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python?utm_source=lms_catalog_service_user&utm_medium=affiliate_partner)
+
+  This course is mostly focused towards the python programming language, including in depth knowledge of python. Python is a good programming language for beginners, but we dont recommend it usig outside data science circles. We can make some cool security challenges and tools with it tho.
+  
+- Projects: All the assignments given in the CS50 course should be enough.
