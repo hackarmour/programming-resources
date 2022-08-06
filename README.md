@@ -20,6 +20,8 @@ We are working on a search engine also make some security challenges. You may fi
 - [CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python?utm_source=lms_catalog_service_user&utm_medium=affiliate_partner)
 
   This course is mostly focused towards the python programming language, including in depth knowledge of python. Python is a good programming language for beginners, but we dont recommend it usig outside data science circles. We can make some cool security challenges and tools with it tho.
+
+- [Git and GitHub Lecture by CS50](https://www.youtube.com/watch?v=eulnSXkhE7I) is a must. Version control system helps us to manage our code and we can host out code easily on github.
   
 - Projects: All the assignments given in the CS50 course should be enough.
 
@@ -30,6 +32,6 @@ This section consists of almost all the tooling and languages required to learn 
 
 - [FreeCodeCamp](https://freecodecamp.org) is a great place where you can learn by doing. I recommend this for mostly for HTML CSS and basic JavaScript.
 
-- Web Project I - By this time you must have mastered front end development. I suggest to check out the (Stanford Web Homeworks)(https://web.stanford.edu/class/archive/cs/cs193x/cs193x.1176/homework/) and try to complete [TODO: analyse the homeworks peoperly]
+- Web Project I - By this time you must have mastered front end development. I suggest to check out the [Stanford Web Homeworks](https://web.stanford.edu/class/archive/cs/cs193x/cs193x.1176/homework/) and try to complete [Listicle](https://web.stanford.edu/class/archive/cs/cs193x/cs193x.1176/homework/1-listicle), And after that for a JavaScript fresher, try to make a quiz website.
 
 
