@@ -62,5 +62,9 @@ MERN is an excellent stack for web programming as all the tooling is in javaScri
 - Go Project I - Make a password manager backend with encryption (todo: instructions coming soon)
 - Go Project II - Remake the Social media backend in Web Project III with go
 - Go Project III - Make a PDF file search tool with Go
+
+## System Programming
+
+System software is something which runs very close to the hardware. They include OS, drivers, compilers, runtime environments, etc. It's often challenging to deal with such a thing for a beginner but I have made and entire repository called [System Programming Roadmap](https://github.com/ujjwal-kr/system-programming-roadmap) which also includes exploitation of system software. Keep in mind that it is a THREE YEAR long roadmap so have some patience. It also includes malware research materials. I'll update the repo with more meaningfull projects soon.
   
 
