@@ -32,6 +32,16 @@ This section consists of almost all the tooling and languages required to learn 
 
 - [FreeCodeCamp](https://freecodecamp.org) is a great place where you can learn by doing. I recommend this for mostly for HTML CSS and basic JavaScript.
 
-- Web Project I - By this time you must have mastered front end development. I suggest to check out the [Stanford Web Homeworks](https://web.stanford.edu/class/archive/cs/cs193x/cs193x.1176/homework/) and try to complete [Listicle](https://web.stanford.edu/class/archive/cs/cs193x/cs193x.1176/homework/1-listicle), And after that for a JavaScript fresher, try to make a quiz website.
+- Web Project I - By this time you must have mastered the basics of front end development. I suggest to check out the [Stanford Web Homeworks](https://web.stanford.edu/class/archive/cs/cs193x/cs193x.1176/homework/) and try to complete [Listicle](https://web.stanford.edu/class/archive/cs/cs193x/cs193x.1176/homework/1-listicle), And after that for a JavaScript fresher, try to make a quiz website.
 
+- [ReactJs](https://reactjs.org) is a library for creating javaScript web apps. Try to learn about the react ecosystem, things like nextjs and styled-components. They are going to make your life way easier. You can also choose another framework/library, but we recommend reactjs.
 
+- [NodeJs](https://nodejs.dev/) is a way of running javaScript outside of a browser. Which makes it an awesome fit for server programming. After that you can use [ExrpressJs](https://expressjs.com) to make it easier for you to create server side apps. Follow the [Local Library Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) where you can also get exposure to mongodb, a database to store all your user generated data.
+
+- After knowlegde of Node, Express and mongodb, you can learn how to implement REST APIs and connect your server to the client (let us assume its reactjs). Congratulations, you are now a MERN stack developer [Mongo, Express, React, Node].
+
+- Web Project II - Now you can make the [final project](https://web.stanford.edu/class/archive/cs/cs193x/cs193x.1176/final-project/) of stanford web fundamentals class. Also, you can now experiment with different file structures, and design patterns for your apps.
+
+- Learn about how [JWT](https://jwt.io/) works and how to implement it in your node application so that you can authenticate and authorize users. This is very helpful if you want people to log in or make an account and perform certain account based actions in your app. Use the [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) library to implement that in your node app and you can later save the authentication information in your client side and send it with all the requests and perform authentication.
+
+- Web Project III [A social media app](https://www.crio.do/projects/javascript-socail-media-nodejs/) by crio. I dont suggest to follow the instructions, take your own decisions as you already are familiar with the technologies. Do see the introduction page where they show the screenshots and stack of the app, including a demo video and all the features. And try to make your own version out of it.
