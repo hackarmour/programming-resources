@@ -17,7 +17,7 @@ We are working on a search engine also make some security challenges. You may fi
   
   Will teach you basics of computational thinking, basic data structures & algorithms, programming with C, python, javascript and also a good introduction to web development. Complete the exercises and assignments of the course for some practical work
   
-- [CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python?utm_source=lms_catalog_service_user&utm_medium=affiliate_partner)
+- [CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
 
   This course is mostly focused towards the python programming language, including in depth knowledge of python. Python is a good programming language for beginners, but we dont recommend it using outside data science circles. We can make some cool security challenges and tools with it tho.
 
@@ -25,7 +25,7 @@ We are working on a search engine also make some security challenges. You may fi
   
 - Projects: All the assignments given in the CS50 course should be enough.
 
-## Web Development
+## Web Development [MERN]
 This section consists of almost all the tooling and languages required to learn web development. Remember, this section isn't only about making websites, it is also about programming servers which can also power a mobile app or a multiplayer game.
 
 - [MDN](https://developer.mozilla.org/en-US/docs/Learn) is one of the best guide as well as a great reference to all the languages and tooling required to learn web development. However this does not cover hands on exercises.
@@ -45,3 +45,17 @@ This section consists of almost all the tooling and languages required to learn 
 - Learn about how [JWT](https://jwt.io/) works and how to implement it in your node application, so that you can authenticate and authorize users. This is very helpful if you want people to log in and perform certain account based actions in your app. Use the [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) library to implement that in your node app and you can later save the authentication information in your client side, send it with all the requests to perform authentication.
 
 - Web Project III - [A social media app](https://www.crio.do/projects/javascript-socail-media-nodejs/) by crio. I dont suggest to follow the instructions, make your own decisions as you already are familiar with the technologies. Do see the introduction page where they show the screenshots and stack of the app, including a demo video and all the features. Try to make your own version out of it.
+
+## Golang
+
+MERN is an exellent stack for web programming as all the tooling is in javaScript. We do not any alternative for javaScript in a web browser but we have plenty of languages to choose from if we are making servers, you don't always have to use nodejs. Nodejs is fast (atleast more than python or ruby) and pretty popular hence it has a lot of library and community support. But when it comes to reliable, stable and blazingly fast backends, I prefer [Go](https://go.dev/). A significant amout of the hackarmour search engine is written in go. Here are some resources you can use to master it.
+
+- [Introduction to programming with Go](https://www.golang-book.com/books/intro) 
+
+  It is an amazing free book to get started with golang. Also teaches stuff beyond basics like crypto and servers in go.
+
+- After you are done with the basics, now u can directly jump into server programming. You can follow [writing web applications](https://go.dev/doc/articles/wiki/) and then you can try [Developing a RESTful API with gin](https://go.dev/doc/tutorial/web-service-gin) (a framework for go)
+
+- Now same as js you can find many golang packages like JWT or bcrypt. Also including sql query builder like [sqlx](http://jmoiron.github.io/sqlx/), ORM like [Gorm](https://gorm.io)
+  
+
