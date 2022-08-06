@@ -58,5 +58,9 @@ MERN is an exellent stack for web programming as all the tooling is in javaScrip
 - After you are done with the basics, now u can directly jump into server programming. You can follow [writing web applications](https://go.dev/doc/articles/wiki/) and then you can try [Developing a RESTful API with gin](https://go.dev/doc/tutorial/web-service-gin) (a framework for go)
 
 - Same as js you can find many golang packages like JWT or bcrypt. Also including a sql query builder like [sqlx](http://jmoiron.github.io/sqlx/), or an ORM like [Ent](https://entgo.io/) or [Gorm](https://gorm.io).
+
+- Go Project I - Make a password manager backend with encryption (todo: instructions coming soon)
+- Go Project II - Remake the Social media backend in Web Project III with go
+- Go Project III - Make a PDF file search tool with Go
   
 
