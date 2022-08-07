@@ -35,7 +35,7 @@ This section consists of almost all the tooling and languages required to learn 
 
 - [ReactJs](https://reactjs.org) is a library for creating javaScript web apps. Try to learn about the react ecosystem, things like nextjs and styled-components. They are going to make your life way easier. You can also choose another framework/library, but we recommend reactjs.
 
-- [NodeJs](https://nodejs.dev/) is a way of running javaScript outside of a browser. Which makes it an awesome fit for server programming. After that you can use [ExrpressJs](https://expressjs.com) to make it easier for you to create server side apps. Follow the [Local Library Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) where you can also get exposure to mongodb, a database to store all your user generated data. 
+- [NodeJs](https://nodejs.dev/) is a way of running javaScript outside of a browser. Which makes it an awesome fit for server programming. After that you can use [ExpressJs](https://expressjs.com) to make it easier for you to create server side apps. Follow the [Local Library Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) where you can also get exposure to mongodb, a database to store all your user generated data. 
   For connecting with SQL databases, [knex](http://knexjs.org/), [objection](https://vincit.github.io/objection.js/), [typeORM](https://typeorm.io/) and [prisma](https://typeorm.io/) are pretty good.
 
 - After knowledge of Node, Express and mongodb, you can learn how to implement REST APIs and connect your server to the client (let us assume its reactjs). Congratulations, you are now a MERN stack developer [Mongo, Express, React, Node].
