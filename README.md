@@ -63,8 +63,11 @@ MERN is an excellent stack for web programming as all the tooling is in javaScri
 - Go Project II - Remake the Social media backend in Web Project III with go
 - Go Project III - Make a PDF file search tool with Go
 
-## System Programming
+## System Programming & Malware
 
-System software is something which runs very close to the hardware. They include OS, drivers, compilers, runtime environments, etc. It's often challenging to deal with such a thing for a beginner but I have made and entire repository called [System Programming Roadmap](https://github.com/ujjwal-kr/system-programming-roadmap) which also includes exploitation of system software. Keep in mind that it is a THREE YEAR long roadmap so have some patience. It also includes malware research materials. I'll update the repo with more meaningfull projects soon.
+System software is something which runs very close to the hardware. They include OS, drivers, compilers, runtime environments, etc. It's often challenging to deal with such a thing for a beginner but I have made and entire repository called [System Programming Roadmap](https://github.com/ujjwal-kr/system-programming-roadmap) which also includes exploitation of system software. Keep in mind that it is a THREE YEAR long roadmap so have some patience. It also includes malware research materials. I'll update the repo with more meaningful projects soon.
+
+## Conclusion
+As you know things can get complex at times if you are a beginner. I wish I had the same resources when I started but this can also lead you to become overwhelmed by these materials, and if that happens, you are not alone. Just be slow and steady and never hesitate to ask questions. Try to complete all the projects and if you think you are still facing problems or errors making them, don't feel like it's not for you, again you are not alone in that situation. Enjoy the process of iterating over the learning material and trying to solve the problems in the projects. It's still what I do to learn something new.
   
 
