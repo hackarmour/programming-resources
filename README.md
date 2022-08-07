@@ -9,8 +9,7 @@ We are working on a search engine and also make some security challenges. You ma
 - Basics Of Computer Science
 - Web Development
 - System Programming
-- Malware
-- Others
+- Conclusion
 
 ## The Basics of Computer Science
 - [CS50 by Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
