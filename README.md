@@ -11,7 +11,7 @@ We are working on a search engine and also make some security challenges. You ma
 - System Programming
 - Conclusion
 
-## The Basics of Computer Science
+## The Basics of Computer Science ~ 3-4 months
 - [CS50 by Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
   
   Will teach you the basics of computational thinking, basic data structures & algorithms, programming with C, python, javascript and also a good introduction to web development. Complete the exercises and assignments of the course for some practical work
@@ -24,7 +24,7 @@ We are working on a search engine and also make some security challenges. You ma
   
 - Projects: All the assignments given in the CS50 course should be enough.
 
-## Web Development [MERN]
+## Web Development [MERN] ~ 5-6 months
 This section consists of almost all the tooling and languages required to learn web development. Remember, this section isn't only about making websites, it is also about programming servers which can also power a mobile app or a multiplayer game.
 
 - [MDN](https://developer.mozilla.org/en-US/docs/Learn) is one of the best guides as well as a great reference to all the languages and tooling required to learn web development. However this does not cover hands on exercises.
@@ -48,7 +48,7 @@ This section consists of almost all the tooling and languages required to learn 
 
 - Web Project III - [A social media app](https://www.crio.do/projects/javascript-socail-media-nodejs/) by crio. I would not suggest following the instructions; make your own decisions as you already are familiar with the technologies. Do see the introduction page where they show the screenshots and stack of the app, including a demo video and all the features. Try to make your own version of it.
 
-## Golang
+## Golang ~ 2 months
 
 MERN is an excellent stack for web programming as all the tooling is in javaScript. We do not any alternative for javaScript in a web browser but we have plenty of languages to choose from if we are making servers, you don't always have to use nodejs. Nodejs is fast (atleast more than python or ruby) and pretty popular hence it has a lot of library and community support. But when it comes to reliable, stable and blazingly fast backends, I prefer [Go](https://go.dev/). A significant amout of the hackarmour search engine is written in go. Here are some resources you can use to master it.
 
@@ -64,7 +64,7 @@ MERN is an excellent stack for web programming as all the tooling is in javaScri
 - Go Project II - Remake the Social media backend in Web Project III with go
 - Go Project III - Make a PDF file search tool with Go
 
-## System Programming & Malware
+## System Programming & Malware ~ 3 years
 
 System software is something which runs very close to the hardware. They include OS, drivers, compilers, runtime environments, etc. It's often challenging to deal with such a thing for a beginner but I have made and entire repository called [System Programming Roadmap](https://github.com/ujjwal-kr/system-programming-roadmap) which also includes exploitation of system software. Keep in mind that it is a THREE YEAR long roadmap so have some patience. It also includes malware research materials. I'll update the repo with more meaningful projects soon.
 
