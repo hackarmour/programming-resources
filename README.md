@@ -62,7 +62,6 @@ MERN is an excellent stack for web programming as all the tooling is in javaScri
 
 - Go Project I - Make a password manager backend with encryption (todo: instructions coming soon)
 - Go Project II - Remake the Social media backend in Web Project III with go
-- Go Project III - Make a PDF file search tool with Go
 
 ## System Programming & Malware ~ 3 years
 
