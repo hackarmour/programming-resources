@@ -62,7 +62,7 @@ MERN is an excellent stack for web programming as all the tooling is in javaScri
 
 - As with Js, you can find many golang packages like JWT or bcrypt. Also including a sql query builder like [sqlx](http://jmoiron.github.io/sqlx/), or an ORM like [Ent](https://entgo.io/) or [Gorm](https://gorm.io).
 
-- Go Project I - Make a password manager backend with encryption (todo: instructions coming soon)
+- Go Project I - Make a password manager backend with encryption. [Instructions](https://cdn.discordapp.com/attachments/872862958345142394/1014138422190952458/unknown.png).
 - Go Project II - Remake the Social media backend in Web Project III with go
 
 ## System Programming & Malware ~ 3 years
