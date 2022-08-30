@@ -42,6 +42,8 @@ This section consists of almost all the tooling and languages required to learn 
 
 - After knowledge of Node, Express and mongodb, you can learn how to implement REST APIs and connect your server to the client (let us assume its reactjs). Congratulations, you are now a MERN stack developer [Mongo, Express, React, Node].
 
+- You may also want to "containerize" your app which essentially means running it in a well defined, controlled and secured environment. You can read about docker [here](https://www.ibm.com/in-en/cloud/learn/docker). You may also wana look at [docker-compose](https://docs.docker.com/compose/) which makes it easier for you to spin up multiple containers using a config file.
+
 - Web Project II - Now you can make the [final project](https://web.stanford.edu/class/archive/cs/cs193x/cs193x.1176/final-project/) of stanford web fundamentals class. Also, you can now experiment with different file structures, and design patterns for your apps.
 
 - Learn about how [JWT](https://jwt.io/) works and how to implement it in your node application, so that you can authenticate and authorise users. This is very helpful if you want people to log in and perform certain account based actions in your app. Use the [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) library to implement that in your node app and you can later save the authentication information in your client side, send it with all the requests to perform authentication.
