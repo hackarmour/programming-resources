@@ -36,7 +36,9 @@ This section consists of almost all the tooling and languages required to learn 
 - [ReactJs](https://reactjs.org) is a library for creating javaScript web apps. Try to learn about the react ecosystem, things like nextjs and styled-components. They are going to make your life way easier. You can also choose another framework/library, but we recommend reactjs.
 
 - [NodeJs](https://nodejs.dev/) is a way of running javaScript outside of a browser. Which makes it an awesome fit for server programming. After that you can use [ExpressJs](https://expressjs.com) to make it easier for you to create server side apps. Follow the [Local Library Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) where you can also get exposure to mongodb, a database to store all your user generated data. 
-  For connecting with SQL databases, [knex](http://knexjs.org/), [objection](https://vincit.github.io/objection.js/), [typeORM](https://typeorm.io/) and [prisma](https://typeorm.io/) are pretty good.  
+  For connecting with SQL databases, [knex](http://knexjs.org/), [objection](https://vincit.github.io/objection.js/), [typeORM](https://typeorm.io/) and [prisma](https://typeorm.io/) are pretty good.
+  
+- [The Odin Project](https://www.theodinproject.com/)'s full stack JasvaScript is an amazing resource for project based learning. You can make it your primary guide too.
 
 - You should also look into [TypeScript](https://www.typescriptlang.org/), which is basically JavaScript with types. It helps to let u write more structured and bug free code. Try to implement expressjs and react apps with TypeScript, and if possible implement the rest of the web projects in TypeScript as well.
 
