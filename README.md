@@ -27,7 +27,7 @@ We are working on a search engine and also make some security challenges. You ma
 ## Web Development [MERN] ~ 5-6 months
 This section consists of almost all the tooling and languages required to learn web development. Remember, this section isn't only about making websites, it is also about programming servers which can also power a mobile app or a multiplayer game.
 
-- [MDN](https://developer.mozilla.org/en-US/docs/Learn) is one of the best guides as well as a great reference to all the languages and tooling required to learn web development. However this does not cover hands on exercises. One of them is an article about [How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works).
+- [MDN](https://developer.mozilla.org/en-US/docs/Learn) is one of the best guides as well as a great reference to all the languages and tooling required to learn web development. One of them is an article about [How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works). However this does not cover hands on exercises.
 
 - [FreeCodeCamp](https://freecodecamp.org) is a great place where you can learn by doing. I recommend this mostly for HTML CSS and basic JavaScript.
 
