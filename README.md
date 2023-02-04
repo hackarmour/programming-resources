@@ -56,16 +56,32 @@ This section consists of almost all the tooling and languages required to learn 
 
 MERN is an excellent stack for web programming as all the tooling is in javaScript. We do not any alternative for javaScript in a web browser but we have plenty of languages to choose from if we are making servers, you don't always have to use nodejs. Nodejs is fast (atleast more than python or ruby) and pretty popular hence it has a lot of library and community support. But when it comes to reliable, stable and blazingly fast backends, I prefer [Go](https://go.dev/). A significant amout of the hackarmour search engine is written in go. Here are some resources you can use to master it.
 
-- [Introduction to programming with Go](https://www.golang-book.com/books/intro) 
-
-  It is an amazing free book to get started with golang. Also teaches stuff beyond basics like crypto and servers in go.
-
+- [Introduction to programming with Go](https://www.golang-book.com/books/intro): It is an amazing free book to get started with golang. Also teaches stuff beyond basics like crypto and servers in go
 - After you are done with the basics, now u can directly jump into server programming. You can follow [writing web applications](https://go.dev/doc/articles/wiki/) and then you can try [Developing a RESTful API with gin](https://go.dev/doc/tutorial/web-service-gin) (a framework for go)
-
 - As with Js, you can find many golang packages like JWT or bcrypt. Also including a sql query builder like [sqlx](http://jmoiron.github.io/sqlx/), or an ORM like [Ent](https://entgo.io/) or [Gorm](https://gorm.io).
-
 - Go Project I - Make a password manager backend with encryption. [Instructions](https://cdn.discordapp.com/attachments/872862958345142394/1014138422190952458/unknown.png).
 - Go Project II - Remake the Social media backend in Web Project III with go
+
+## System Design
+
+As now you know how to work with docker and docker compose to containerize your apps and manage deployments, it is now time to learn some effective ways to design a large scale system. Most startups these days, use different languages for different tasks and a lot of them use [microservices](https://microservices.io/). Using them brings a lot of new changes to the infrastructure and makes the code too complex to maintain. So there are a few things you need to take care of:
+
+- [Load Balancing](https://www.youtube.com/watch?v=K0Ta65OqQkY): which request goes to which service.
+- [Docker Compose networking](https://docs.docker.com/compose/networking/), [GRPC](https://grpc.io/): understand how services talk to each other using communication protocols.
+- [Event Streaming](https://tanzu.vmware.com/event-streaming), [Kafka](https://kafka.apache.org/): streaming events such as logs of statistics data
+- [DB Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture)): distributed databases
+- [Redis](https://redis.io/): a very fast in-memory DB can be used for caching.
+- [Kubernetes](https://kubernetes.io/), [Kubernetes and Microservices Course by Udacity](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615): Important for horizontal scaling and availability across the globe, self healing deployments and so on.
+
+These are just few topics you need to know about when starting to learn microservices. System design includes a lot of things. Please follow the [System Design Roadmap](https://roadmap.sh/system-design) to get a wider look at what stuff you will be working with. Don't get overwhelmed with it just yet, as everything is incrementally adoptable to your backend, and often you wont need everything in your codebase.
+
+### Projects
+- Try to make the Social Media Backend as a microservice
+   - You can make different services which handle users, posts, monitoring, admin stuff.
+- Try to implement your own load balancer in Golang.
+    - This is a good cloud systems project. Use goroutines. [The Wikipedia Page](https://en.wikipedia.org/wiki/Load_balancing_(computing)) should be a good starting point.
+- Design the system of backends like amazon, uber, netflix, twitter or equivalent. You can find handful of tutorials on youtube.
+- Design Wikipedia, and implement it. You can find how wikipedia works in the website itself. You can also create your own version of it, but make sure to implement it's core features such as adding a page, editing by other users, and validation of edits. Try to use distributed database management system and a lot of caching here as availability across the globe is an important priority.
 
 ## System Programming & Malware ~ 3 years
 
