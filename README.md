@@ -68,8 +68,9 @@ As now you know how to work with docker and docker compose to containerize your 
 
 - [Load Balancing](https://www.youtube.com/watch?v=K0Ta65OqQkY): which request goes to which service.
 - [Docker Compose networking](https://docs.docker.com/compose/networking/), [GRPC](https://grpc.io/): understand how services talk to each other using communication protocols.
-- [Event Streaming](https://tanzu.vmware.com/event-streaming), [Kafka](https://kafka.apache.org/): streaming events such as logs of statistics data
-- [DB Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture)): distributed databases
+- [Message brokers](https://www.ibm.com/in-en/topics/message-brokers), [Rabbit MQ](https://www.rabbitmq.com/): a service for sending messages to other containers.
+- [Event Streaming](https://tanzu.vmware.com/event-streaming), [Kafka](https://kafka.apache.org/): streaming events such as logs of statistics data.
+- [DB Sharding](https://en.wikipedia.org/wiki/Shard_(database_architecture)): distributed databases.
 - [Redis](https://redis.io/): a very fast in-memory DB can be used for caching.
 - [Kubernetes](https://kubernetes.io/), [Kubernetes and Microservices Course by Udacity](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615): Important for horizontal scaling and availability across the globe, self healing deployments and so on.
 
