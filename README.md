@@ -52,6 +52,8 @@ This section consists of almost all the tooling and languages required to learn 
 
 - Web Project III - [A social media app](https://www.crio.do/projects/javascript-socail-media-nodejs/) by crio. I would not suggest following the instructions; make your own decisions as you already are familiar with the technologies. Do see the introduction page where they show the screenshots and stack of the app, including a demo video and all the features. Try to make your own version of it.
 
+- [Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/v41/): Make sure the applications you create is secure. 
+
 ## Golang ~ 2 months
 
 MERN is an excellent stack for web programming as all the tooling is in javaScript. We do not any alternative for javaScript in a web browser but we have plenty of languages to choose from if we are making servers, you don't always have to use nodejs. Nodejs is fast (atleast more than python or ruby) and pretty popular hence it has a lot of library and community support. But when it comes to reliable, stable and blazingly fast backends, I prefer [Go](https://go.dev/). A significant amout of the hackarmour search engine is written in go. Here are some resources you can use to master it.
