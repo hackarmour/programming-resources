@@ -39,6 +39,7 @@ This section consists of almost all the tooling and languages required to learn 
   For connecting with SQL databases, [knex](http://knexjs.org/), [objection](https://vincit.github.io/objection.js/), [typeORM](https://typeorm.io/) and [prisma](https://typeorm.io/) are pretty good.
   
 - [The Odin Project](https://www.theodinproject.com/)'s full stack JasvaScript is an amazing resource for project based learning. You can make it your primary guide too.
+- [Full Stack Open](https://fullstackopen.com/en/) A really good full stack course dealing with advanced topics as well, like CI/CD and containers (will discuss below) and even making mobile apps with react native. 
 
 - You should also look into [TypeScript](https://www.typescriptlang.org/), which is basically JavaScript with types. It helps to let u write more structured and bug free code. Try to implement expressjs and react apps with TypeScript, and if possible implement the rest of the web projects in TypeScript as well.
 
